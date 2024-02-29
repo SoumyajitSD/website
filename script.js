@@ -1,1 +1,1 @@
-alert("Are you a cutie pie?")
+alert("Press 'ok' to continue")
